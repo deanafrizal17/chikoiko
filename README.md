@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiko Aprillio</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Poru](https://github.com/chikoiko)
+- 🔭 I’m currently working on [Kuma](https://github.com/chikoiko)
 
 - 🌱 I’m currently learning **Next.js and React-native**
 
