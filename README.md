@@ -81,9 +81,9 @@
 
 <div align="center">
 
-<a href="https://github.com/chikoiko/">
-  <img src="https://github-readme-stats.vercel.app/api?username=chikoiko&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chikoiko&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="chikoiko"/>
+<a href="https://github.com/deanafrizal17/">
+  <img src="https://github-readme-stats.vercel.app/api?username=deanafrizal17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deanafrizal17&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="deanafrizal17"/>
 
 </a>
 </div>
