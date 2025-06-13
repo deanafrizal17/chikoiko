@@ -107,7 +107,7 @@
 
 <li>
 <a href="https://discord.com/users/698977078573269122" target="_blank">
-<img src="https://img.shields.io/badge/discord:  ikoarsya-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:  deaneze-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
 </a>
 </li>
 
