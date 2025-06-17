@@ -67,6 +67,6 @@
 
 <div align="center"> 
 
-  <a href="https://discord.gg/arctie" target="_blank"><img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/arctie" target="_blank"><img src="https://img.shields.io/badge/Discord-0085eb?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 </div>
