@@ -7,12 +7,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/deanafrizal17" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/deanafrizal17" alt="Profile Forks"></a>
 </div>
-
-## ⭐ Join Our Community
-
-<p align="center"> 
-  <a href="https://discord.gg/arctie" target="_blank"> <img src="https://discordapp.com/api/guilds/1337087241024966667/widget.png?style=banner2"/> </a> 
-</p>
   
 </p>
 
