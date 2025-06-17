@@ -1,137 +1,72 @@
-<h1 align="center"><b>Hi , I'm Dean Afrizal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AssalamuAlaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Discord+Bot+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DEAN%20AFRIZAL"/> </a> 
 </p>
-
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 <div align="center">
-
-<a href="https://github.com/deanafrizal17/">
-  <img src="https://github-readme-stats.vercel.app/api?username=deanafrizal17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deanafrizal17&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="deanafrizal17"/>
-
-</a>
+<img src="https://komarev.com/ghpvc/?username=deanafrizal17&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/deanafrizal17" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/deanafrizal17" alt="Profile Forks"></a>
 </div>
 
-<br>
-<br>
-<br>
+## ⭐ Join Our Community
 
------
+<p align="center"> 
+  <a href="https://discord.gg/arctie" target="_blank"> <img src="https://discordapp.com/api/guilds/1337087241024966667/widget.png?style=banner2"/> </a> 
+</p>
+  
+</p>
 
-<br>
-<br>
+<figure><embed src="https://wakatime.com/share/@Adivise/a411e44c-56cb-4bf2-b9fd-da75e36b48c0.svg"></embed></figure>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+## 🙋‍♂️ About Me
 
-<ul>
+- 🌱 I’m kindna expert Javascript Full-Stack Developer, **Discord.JS/React.JS/Electron.JS**
 
-<br>
+## 🚀 Languages
 
-<li>
-<a href="https://discord.com/users/698977078573269122" target="_blank">
-<img src="https://img.shields.io/badge/discord:  deaneze-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
-</a>
-</li>
+<p align="center"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=64&id=108784&format=png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/?size=64&id=54087&format=png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=nn5BRPhPpKAT&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=asWSSTBrDlTW&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://www.electronjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=z1hRF8ZnphmY&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://discord.js.org/" target="_blank"> <img src="https://img.icons8.com/?size=64&id=30998&format=png"/> </a>
+</p>
 
-<br>
-	
-</ul>
+## 📃 Contributions
+
+<p align="center"> 
+    <a href="https://gitlift.com/user/deanafrizal17" target="_blank"> <img src="https://img.shields.io/badge/Gitlift-Determined-f57f17?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA/1BMVEUAAAD1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf1fxf///8hPsr3AAAAU3RSTlMAABW5kgobaKvsgQgar/NTgPmDrZ9gmOcGAgkEOuSurFrOxxNKcWMnAVfpo/rPNlwDWOicuNQHHGke6zU9eFsNQS9GPDJreUUSLFUFR1F1EGR7b+rfKSYAAACiSURBVHjaTckDGkNREEPhSW3btm3b7d3/Wur2zfmYP0QEmVyhBP0CVGqNVqfHHwxGk9litf3FYBfC4XS5bR7A61P6KRAUIhSORGNxIJFMpSmTzQldvlAsASinPRVCplqrN5oltNrtThdEL+k1+8BgWB6NX0DwTqYAZnPQP+gX/WWAQ3q1nm04bHd87Q/HpZnD5jTdnv8AZGQXL/8NnesNEjwASCETZucT9uAAAAAASUVORK5CYII="/> </a> 
+</p>
+
+<p align="center">
+    <a href="https://github.com/deanafrizal17/github-readme-stats">
+        <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=deanafrizal17&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/deanafrizal7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deanafrizal17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanafrizal17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+## 🎶 Spotify History
 
-<div align='center'>
+<p align="center"> 
+  <a href="https://open.spotify.com/user/z3ko4o21dsbvx6bu7vmtvvhu5" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=z3ko4o21dsbvx6bu7vmtvvhu5"/> </a> 
+</p>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/ImJustNon/ImJustNon/output/snake.svg" alt="Snake animation" />
+  
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
+## 🌟 Social Media:
 
-<br>
+<div align="center"> 
+
+  <a href="https://discord.gg/arctie" target="_blank"><img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 
+</div>
